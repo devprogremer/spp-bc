@@ -1,2 +1,0 @@
-# spp-bc
-aplikasi spp
